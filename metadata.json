@@ -1,0 +1,8 @@
+{
+  "shell-version": [
+    "3.22.3"
+  ],
+  "description": "Select tuned-adm power profile",
+  "uuid": "PowerProfileSelector@justinmichaelholmes@gmail.com",
+  "name": "Power Profile Selector"
+}
